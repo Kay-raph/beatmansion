@@ -802,7 +802,7 @@ ol {
 
 .ps-item:hover .thumb-icon {
 	opacity: 1;
-	visibility: visible;
+	visibility: hidden;
 }
 
 .ps-item h3 {
@@ -846,7 +846,8 @@ ol {
 	font-size: 14px;
 	color: #c4c4c4;
 	line-height: 32px;
-	list-style: none;
+	list-style: circle;
+	text-align: justify;
 }
 
 .ps-item .primary-btn.pricing-btn {
