@@ -1379,13 +1379,12 @@ ol {
 }
 
 .ts_slider .ts_item .ti_pic {
-	margin-bottom: 32px;
+	margin-bottom: 22px;
 }
 
 .ts_slider .ts_item .ti_pic img {
-	height: 200px;
+	height: auto;
 	width: 200px;
-	border-radius: 50%;
 }
 
 .ts_slider .ts_item .ti_text p {

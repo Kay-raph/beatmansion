@@ -1,10 +1,5 @@
 /*  ---------------------------------------------------
-  Template Name: Gym
-  Description:  Gym Fitness HTML Template
-  Author: Colorlib
-  Author URI: https://colorlib.com
-  Version: 1.0
-  Created: Colorlib
+ 
 ---------------------------------------------------------  */
 
 'use strict';
@@ -117,7 +112,7 @@
         dots: false,
         nav: true,
         navText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'],
-        smartSpeed: 1200,
+        smartSpeed: 2500,
         autoHeight: false,
         autoplay: true
     });
